@@ -53,5 +53,16 @@ Nesses dias aprendi...
 >Axios - também foi usado para pegar os dados do bd.sqlite;
 #####
 
+### Dia 27/03/20
+Um pouco de tópicos avançados...
+>celebrate;
+#####
+>jest;
+#####
+>supertest;
+#####
+>cross-env;
+#####
+
 ## Agradecimento:
 Agradecimento especial a ROCKETSEAT, por mais uma vez me propocionar conhecimento enquanto desenvolvedor e pessoa.
